@@ -1,3 +1,4 @@
+import time
 #Tomato Timer 1.0, see: Source Code from Github.
 author = "TomatoGames from Github"
 hour = int (input ("Hour?"))
