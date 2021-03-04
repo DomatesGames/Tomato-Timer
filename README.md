@@ -10,8 +10,6 @@ Zamanlayıcı yapmak isteyenler için bire bir. Tutorial: https://github.com/Dom
 # Tomato Timer's Website!
 Tomato Timer's website is here! https://domatesgames.github.io/tomato-timer/
 # Tutorial
-# Python-Timer
-(Note: This .py file is "tomato-timer". This repo for the tutorial, license and original in the my profile.)
 Timer in Python. My project "Tomato Timer" is here (see: tomato-timer). Well, how i write this?
 To wait for a second in the time module:
 
