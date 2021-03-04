@@ -8,4 +8,4 @@ One on one for those who want to make a timer. Tutorial: https://github.com/Doma
 Zamanlayıcı yapmak isteyenler için bire bir. Tutorial: https://github.com/DomatesGames/Python-Timer
 
 # Tomato Timer's Website!
-Tomato Timer's website is here! https://domatesgames.github.io/Tomato-Timer/
+Tomato Timer's website is here! https://domatesgames.github.io/tomato-timer/
